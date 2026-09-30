@@ -1,4 +1,4 @@
-# Auto Typer
+# Auto Typer (educational purpose only)
 
 Types text into another window as if a person were typing it: randomized speed, optional typos,
 a precomputed plan with an exact time estimate, and an optional invisible mark.
