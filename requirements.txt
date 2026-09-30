@@ -1,0 +1,4 @@
+pyautogui
+pyperclip
+pynput
+PySide6-Essentials
